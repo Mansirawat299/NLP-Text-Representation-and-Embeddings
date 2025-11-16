@@ -59,5 +59,3 @@ Explore semantic relationships between words using pretrained embeddings.
 
 ---
 
-## 📂 Repository Structure
-
